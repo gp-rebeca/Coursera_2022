@@ -2,7 +2,7 @@
 
 
 # Assignments
--Module 2
-```
+### Module 2
+
 https://gp-rebeca.github.io/Coursera_2022/module2-solution/
 
