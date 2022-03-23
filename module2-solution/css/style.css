@@ -15,7 +15,6 @@ div#container {
   font-family: Helvetica;
   color: white;
   position: relative;
-  text-align: center;
 }
 p#back1 {
   margin-right: auto;
@@ -27,7 +26,6 @@ p#back1 {
   border: 1px solid black;
   font-family: Helvetica;
   color: #CFDFF6     ; 
-  text-align: center;
 }
 
 p#back2 {
@@ -40,7 +38,6 @@ p#back2 {
   border: 1px solid black;
   font-family: Helvetica;
   color: #F7D0DF  ;
-  text-align: center;
 }
 
 p#back3 {
@@ -53,7 +50,6 @@ p#back3 {
   border: 1px solid black;
   font-family: Helvetica;
   color: black; 
-  text-align: center;
 }
 
 p#top1{
