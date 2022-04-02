@@ -15,7 +15,10 @@ div#container {
   font-family: Helvetica;
   color: white;
   position: relative;
+<<<<<<< HEAD
   text-align: center;
+=======
+>>>>>>> 38fbc56810e5414072d74f6ddcbd49aaba85015e
 }
 p#back1 {
   margin-right: auto;
@@ -27,7 +30,10 @@ p#back1 {
   border: 1px solid black;
   font-family: Helvetica;
   color: #CFDFF6     ; 
+<<<<<<< HEAD
   text-align: center;
+=======
+>>>>>>> 38fbc56810e5414072d74f6ddcbd49aaba85015e
 }
 
 p#back2 {
@@ -40,7 +46,10 @@ p#back2 {
   border: 1px solid black;
   font-family: Helvetica;
   color: #F7D0DF  ;
+<<<<<<< HEAD
   text-align: center;
+=======
+>>>>>>> 38fbc56810e5414072d74f6ddcbd49aaba85015e
 }
 
 p#back3 {
@@ -53,7 +62,10 @@ p#back3 {
   border: 1px solid black;
   font-family: Helvetica;
   color: black; 
+<<<<<<< HEAD
   text-align: center;
+=======
+>>>>>>> 38fbc56810e5414072d74f6ddcbd49aaba85015e
 }
 
 p#top1{
